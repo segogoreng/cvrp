@@ -1,0 +1,266 @@
+unit UnitBFS;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, ExtCtrls, ComCtrls, OtherClasses;
+
+type
+  TBFS = Class(TThread)
+    private
+      vehicles             : TVehicles;
+      customers            : TCustomers;
+      N                    : integer;
+      distances            : TDistances;
+      v                    : integer;
+      bestSolution         : TVehicles;
+      bestNumberOfVehicles : integer;
+      numberOfSolutions    : int64;
+      numberOfVehiclesUsed : integer;
+    protected
+      procedure Execute; override;
+    public
+      property noOfVehiclesUsed : integer read numberOfVehiclesUsed;
+      procedure input
+          (vehicles : TVehicles; customers : TCustomers; N : integer;
+           distances : TDistances; v : integer);
+      procedure saveSolution;
+      procedure loadSolution;
+      function allCustomersVisited : boolean;
+      function countCost : integer;
+      function deleteLastRoute : integer;
+      procedure First;
+      function Next : boolean;
+      procedure showNumberOfSolutions;
+  end;
+
+implementation
+
+// This procedure sets up the inputs
+procedure TBFS.input
+          (vehicles : TVehicles; customers : TCustomers; N : integer;
+           distances : TDistances; v : integer);
+var
+  i : integer;
+begin
+  Self.vehicles    := vehicles;
+  Self.customers   := customers;
+  Self.N           := N;
+  Self.distances   := distances;
+  Self.v           := v;
+  for i:=1 to v do
+    bestSolution[i] := TVehicle.create(vehicles[i].getMaxCapacity);
+end;
+
+// This procedure saves the vehicle data to a variable
+procedure TBFS.saveSolution;
+var
+  i : integer;
+begin
+  for i:=1 to numberOfVehiclesUsed do
+  begin
+    bestSolution[i].clear;
+    bestSolution[i].copyData(vehicles[i]);
+  end;
+  bestNumberOfVehicles := numberOfVehiclesUsed;
+end;
+
+// This procedure loads the vehicle data from a variable
+procedure TBFS.loadSolution;
+var
+  i : integer;
+begin
+  for i:=1 to bestNumberOfVehicles do
+  begin
+    vehicles[i].clear;
+    vehicles[i].copyData(bestSolution[i]);
+  end;
+  numberOfVehiclesUsed := bestNumberOfVehicles;
+end;
+
+// This function returns true if all customers are visited
+function TBFS.allCustomersVisited : boolean;
+var
+  temp : boolean;
+  i : integer;
+begin
+  temp := true;
+  for i:=1 to N do
+  begin
+    if (customers[i].visited = false) then temp := false;
+  end;
+  Result := temp;
+end;
+
+// This function counts the cost of the current solution
+function TBFS.countCost : integer;
+var
+  i,j,k,cost : integer;
+begin
+  cost := 0;
+  for i:=1 to numberOfVehiclesUsed do
+  begin
+    k := 0;
+    for j:=1 to vehicles[i].getTotalCust do
+    begin
+      cost := cost + distances[k][vehicles[i].getCustomerIndex(j)];
+      k := vehicles[i].getCustomerIndex(j);
+    end;
+    cost := cost + distances[k][0];
+  end;
+  Result := cost;
+end;
+
+// This function deletes last customer of the route of the last vehicle
+function TBFS.deleteLastRoute : integer;
+var
+  k,ci : integer;       // k : vehicle's index; ci : customer's index;
+  cust : TCustomer;
+begin
+  k := numberOfVehiclesUsed;
+  if (vehicles[k].getTotalCust=0) then
+  begin
+    dec(numberOfVehiclesUsed);
+    dec(k);
+  end;
+  if (k = 0) then
+    Result := 0
+  else begin
+    cust := vehicles[k].deleteRoute(customers);
+    ci := cust.index;
+    Result := ci;
+  end;
+end;
+
+// This procedure generates the first solution
+procedure TBFS.First;
+var
+  k,ci  : integer;    //k = index for vehicles ; ci is customer index
+  stop : boolean;
+begin
+  k := 1;
+  ci := 1;
+  stop := false;
+  while (not stop) do
+  begin
+    if (ci > N) then
+    begin
+      ci := 1;
+      inc(k);
+      if (k > v) or (allCustomersVisited) then stop := true;
+    end
+    else begin
+      if (vehicles[k].isAvailable(customers[ci].demand))
+      and (customers[ci].visited = false) then
+      begin
+        vehicles[k].addRoute(customers[ci]);
+      end;
+      inc(ci);
+    end;
+  end;
+  numberOfVehiclesUsed := k - 1;
+end;
+
+// This function generates next valid solutions
+// This function returns true if there's no next valid solution
+function TBFS.Next : boolean;
+var
+  stop,EOF : boolean;
+  k,ci  : integer;      // k : vehicle's index; i : customer's index
+begin
+  stop := false;
+  EOF := false;
+  ci := 0;
+  // Deleting Routes
+  while (not stop) do
+  begin
+    ci := deleteLastRoute;
+    while (ci > 0) and (ci < N) and (not stop) do
+    begin
+      inc(ci);
+      if (customers[ci].visited = false) then stop:= true;
+    end;
+    k := numberOfVehiclesUsed;
+    if (ci=N) and (k<v) and (vehicles[k].getTotalCust>0) and (not stop) then
+    begin
+      inc(numberOfVehiclesUsed);
+      ci := 1;
+      stop := true;
+    end;
+    if (ci = 0) then
+    begin
+      stop := true;
+      EOF := true;
+    end;
+  end;
+  // Contructing Routes
+  if (not EOF) then
+  begin
+    k := numberOfVehiclesUsed;
+    stop := false;
+    while (not stop) do
+    begin
+      if (ci > N) then
+      begin
+        ci := 1;
+        inc(k);
+        if (k > v) or (allCustomersVisited) then stop := true;
+      end
+      else begin
+        if (vehicles[k].isAvailable(customers[ci].demand))
+        and (customers[ci].visited=false) then
+        begin
+          vehicles[k].addRoute(customers[ci]);
+          ci := 1;
+        end else
+          inc(ci);
+      end;
+    end;
+    numberOfVehiclesUsed := k - 1;
+  end;
+  Result := EOF;
+end;
+
+// This procedure shows the number of solutions that BFS has searched
+procedure TBFS.showNumberOfSolutions;
+begin
+  ShowMessage('Brute-force Search has searched over ' +
+      IntToStr(numberOfSolutions) + ' candidate solutions');
+end;
+
+// This procedure performs Brute-force Search to generate an optimal solution
+procedure TBFS.Execute;
+var
+  minCost : integer;
+  stop : boolean;
+begin
+  minCost := 99999;
+  numberOfSolutions := 0;
+  stop := false;
+  First;
+  while (not stop) and (not terminated) do
+  begin
+    if allCustomersVisited then
+    begin
+      if (countCost < minCost) then
+      begin
+        minCost := countCost;
+        saveSolution;
+      end else if (countCost = minCost) then
+      begin
+        Randomize;
+        if (Random(10) = 7) then
+        begin
+          saveSolution;
+        end;
+      end;
+      inc(numberOfSolutions);
+    end;
+    stop := Next;
+  end;
+  loadSolution;
+  Synchronize(showNumberOfSolutions);
+end;
+
+end.

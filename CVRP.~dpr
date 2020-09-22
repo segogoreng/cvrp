@@ -1,0 +1,18 @@
+program CVRP;
+
+uses
+  Forms,
+  Unit1 in 'Unit1.pas' {FormCVRP},
+  UnitBFS in 'UnitBFS.pas',
+  OtherClasses in 'OtherClasses.pas',
+  UnitNNI in 'UnitNNI.pas',
+  UnitACO in 'UnitACO.pas',
+  UnitGraph in 'UnitGraph.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TFormCVRP, FormCVRP);
+  Application.Run;
+end.

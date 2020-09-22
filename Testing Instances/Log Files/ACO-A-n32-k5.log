@@ -1,0 +1,8000 @@
+Iteration : 1
+Route #1: 30 26 16 12 13 14 24
+Route #2: 27 31 19 17 21 7
+Route #3: 1
+Route #4: 20 5 29 15 10 25 22 9 18 8
+Route #5: 6 4 11 28 23 3 2
+cost 942
+
+Iteration : 2
+Route #1: 30 26 16 12 1 14 27
+Route #2: 20 5 29 15 10 25 22 9 18 8
+Route #3: 24
+Route #4: 6 3 2 23 28 4 11
+Route #5: 7 13 21 31 19 17
+cost 869
+
+Iteration : 3
+Route #1: 30 26 16 12 1 14 27
+Route #2: 20 5 29 15 10 25 22 9 18 8
+Route #3: 24
+Route #4: 6 3 2 23 28 4 11
+Route #5: 7 13 21 31 19 17
+cost 869
+
+Iteration : 4
+Route #1: 30 26 16 12 1 14 27
+Route #2: 20 5 29 15 10 25 22 9 18 8
+Route #3: 24
+Route #4: 6 3 2 23 28 4 11
+Route #5: 7 13 21 31 19 17
+cost 869
+
+Iteration : 5
+Route #1: 30 26 16 12 1 14 27
+Route #2: 20 5 29 15 10 25 22 9 18 8
+Route #3: 24
+Route #4: 6 3 2 23 28 4 11
+Route #5: 7 13 21 31 19 17
+cost 869
+
+Iteration : 6
+Route #1: 30 26 16 12 1 14 27
+Route #2: 20 5 29 15 10 25 22 9 18 8
+Route #3: 24
+Route #4: 6 3 2 23 28 4 11
+Route #5: 7 13 21 31 19 17
+cost 869
+
+Iteration : 7
+Route #1: 30 26 16 12 1 14 27
+Route #2: 20 5 29 15 10 25 22 9 18 8
+Route #3: 24
+Route #4: 6 3 2 23 28 4 11
+Route #5: 7 13 21 31 19 17
+cost 869
+
+Iteration : 8
+Route #1: 30 26 16 12 1 14 27
+Route #2: 20 5 29 15 10 25 22 9 18 8
+Route #3: 24
+Route #4: 6 3 2 23 28 4 11
+Route #5: 7 13 21 31 19 17
+cost 869
+
+Iteration : 9
+Route #1: 30 12 1 16 26 27 14
+Route #2: 24
+Route #3: 20 5 29 15 10 25 22 9 18 8
+Route #4: 7 13 21 31 19 17
+Route #5: 6 3 2 23 28 4 11
+cost 868
+
+Iteration : 10
+Route #1: 30 26 14 27 24
+Route #2: 7 13 21 31 19 17
+Route #3: 20 5 29 15 10 25 22 9 18 8
+Route #4: 16 12 1
+Route #5: 6 3 2 23 28 4 11
+cost 859
+
+Iteration : 11
+Route #1: 30 26 14 27 24
+Route #2: 7 13 21 31 19 17
+Route #3: 20 5 29 15 10 25 22 9 18 8
+Route #4: 16 12 1
+Route #5: 6 3 2 23 28 4 11
+cost 859
+
+Iteration : 12
+Route #1: 30 26 14 27 24
+Route #2: 7 13 21 31 19 17
+Route #3: 20 5 29 15 10 25 22 9 18 8
+Route #4: 16 12 1
+Route #5: 6 3 2 23 28 4 11
+cost 859
+
+Iteration : 13
+Route #1: 30 26 14 27 24
+Route #2: 7 13 21 31 19 17
+Route #3: 20 5 29 15 10 25 22 9 18 8
+Route #4: 16 12 1
+Route #5: 6 3 2 23 28 4 11
+cost 859
+
+Iteration : 14
+Route #1: 30 26 14 27 24
+Route #2: 7 13 21 31 19 17
+Route #3: 20 5 29 15 10 25 22 9 18 8
+Route #4: 16 12 1
+Route #5: 6 3 2 23 28 4 11
+cost 859
+
+Iteration : 15
+Route #1: 30 26 14 27 24
+Route #2: 7 13 21 31 19 17
+Route #3: 20 5 29 15 10 25 22 9 18 8
+Route #4: 16 12 1
+Route #5: 6 3 2 23 28 4 11
+cost 859
+
+Iteration : 16
+Route #1: 30 26 14 27 24
+Route #2: 7 13 21 31 19 17
+Route #3: 20 5 29 15 10 25 22 9 18 8
+Route #4: 16 12 1
+Route #5: 6 3 2 23 28 4 11
+cost 859
+
+Iteration : 17
+Route #1: 30 1 16 26 14 24 27
+Route #2: 7 13 21 31 19 17
+Route #3: 20 5 25 10 15 29 22 9 18 8
+Route #4: 12
+Route #5: 6 3 2 23 28 4 11
+cost 841
+
+Iteration : 18
+Route #1: 12 1 16 26 30
+Route #2: 7 13 21 31 19 17 14
+Route #3: 20 5 25 10 15 29 22 9 18 8
+Route #4: 6 3 2 23 28 4 11
+Route #5: 24 27
+cost 827
+
+Iteration : 19
+Route #1: 12 1 16 26 30
+Route #2: 7 13 21 31 19 17 14
+Route #3: 20 5 25 10 15 29 22 9 18 8
+Route #4: 6 3 2 23 28 4 11
+Route #5: 24 27
+cost 827
+
+Iteration : 20
+Route #1: 20 5 25 10 15 29 22 9 18 8 26
+Route #2: 24 14 27
+Route #3: 12 1 16 30
+Route #4: 7 13 21 31 19 17
+Route #5: 6 3 2 23 28 4 11
+cost 818
+
+Iteration : 21
+Route #1: 20 5 25 10 15 29 22 9 18 8 26
+Route #2: 24 14 27
+Route #3: 12 1 16 30
+Route #4: 7 13 21 31 19 17
+Route #5: 6 3 2 23 28 4 11
+cost 818
+
+Iteration : 22
+Route #1: 20 5 25 10 15 29 22 9 18 8 26
+Route #2: 24 14 27
+Route #3: 12 1 16 30
+Route #4: 7 13 21 31 19 17
+Route #5: 6 3 2 23 28 4 11
+cost 818
+
+Iteration : 23
+Route #1: 20 5 25 10 15 29 22 9 18 8 26
+Route #2: 24 14 27
+Route #3: 12 1 16 30
+Route #4: 7 13 21 31 19 17
+Route #5: 6 3 2 23 28 4 11
+cost 818
+
+Iteration : 24
+Route #1: 20 5 25 10 15 29 22 9 18 8 26
+Route #2: 24 14 27
+Route #3: 12 1 16 30
+Route #4: 7 13 21 31 19 17
+Route #5: 6 3 2 23 28 4 11
+cost 818
+
+Iteration : 25
+Route #1: 20 5 25 10 15 29 22 9 18 8 26
+Route #2: 24 14 27
+Route #3: 12 1 16 30
+Route #4: 7 13 21 31 19 17
+Route #5: 6 3 2 23 28 4 11
+cost 818
+
+Iteration : 26
+Route #1: 20 5 25 10 15 29 22 9 18 8 26
+Route #2: 24 14 27
+Route #3: 12 1 16 30
+Route #4: 7 13 21 31 19 17
+Route #5: 6 3 2 23 28 4 11
+cost 818
+
+Iteration : 27
+Route #1: 20 5 25 10 15 29 22 9 18 8 26
+Route #2: 24 14 27
+Route #3: 12 1 16 30
+Route #4: 7 13 21 31 19 17
+Route #5: 6 3 2 23 28 4 11
+cost 818
+
+Iteration : 28
+Route #1: 20 5 25 10 15 29 22 9 18 8 26
+Route #2: 24 14 27
+Route #3: 12 1 16 30
+Route #4: 7 13 21 31 19 17
+Route #5: 6 3 2 23 28 4 11
+cost 818
+
+Iteration : 29
+Route #1: 20 5 25 10 15 29 22 9 18 8 26
+Route #2: 24 14 27
+Route #3: 12 1 16 30
+Route #4: 7 13 21 31 19 17
+Route #5: 6 3 2 23 28 4 11
+cost 818
+
+Iteration : 30
+Route #1: 20 5 25 10 15 29 22 9 18 8 26
+Route #2: 24 14 27
+Route #3: 12 1 16 30
+Route #4: 7 13 21 31 19 17
+Route #5: 6 3 2 23 28 4 11
+cost 818
+
+Iteration : 31
+Route #1: 20 5 25 10 15 22 9 18 8 26
+Route #2: 24 14 27
+Route #3: 7 13 21 31 19 17
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 812
+
+Iteration : 32
+Route #1: 20 5 25 10 15 22 9 18 8 26
+Route #2: 24 14 27
+Route #3: 7 13 21 31 19 17
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 812
+
+Iteration : 33
+Route #1: 20 5 25 10 15 22 9 18 8 26
+Route #2: 24 14 27
+Route #3: 7 13 21 31 19 17
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 812
+
+Iteration : 34
+Route #1: 20 5 25 10 15 22 9 18 8 26
+Route #2: 24 14 27
+Route #3: 7 13 21 31 19 17
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 812
+
+Iteration : 35
+Route #1: 20 5 25 10 15 22 9 18 8 26
+Route #2: 24 14 27
+Route #3: 7 13 21 31 19 17
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 812
+
+Iteration : 36
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 37
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 38
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 39
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 40
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 41
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 42
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 43
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 44
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 45
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 46
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 47
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 48
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 49
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 50
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 51
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 52
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 53
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 54
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 55
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 56
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 57
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 58
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 59
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 60
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 61
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 62
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 63
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 64
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 65
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 66
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 67
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 68
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 69
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 70
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 71
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 72
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 73
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 74
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 75
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 76
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 77
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 78
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 79
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 80
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 81
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 82
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 83
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 84
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 85
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 86
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 87
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 88
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 89
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 90
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 91
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 92
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 93
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 94
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 95
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 96
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 97
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 98
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 99
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 100
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 101
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 102
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 103
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 104
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 105
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 106
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 107
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 108
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 109
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 110
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 111
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 112
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 113
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 114
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 115
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 116
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 117
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 118
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 119
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 120
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 121
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 122
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 123
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 124
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 125
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 126
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 127
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 128
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 129
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 130
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 131
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 132
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 133
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 134
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 135
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 136
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 137
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 138
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 139
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 140
+Route #1: 24 14 27
+Route #2: 7 13 21 31 19 17 26
+Route #3: 12 1 16 30
+Route #4: 20 5 25 10 15 22 9 18 8 29
+Route #5: 6 3 2 23 28 4 11
+cost 803
+
+Iteration : 141
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 142
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 143
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 144
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 145
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 146
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 147
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 148
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 149
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 150
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 151
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 152
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 153
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 154
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 155
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 156
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 157
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 158
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 159
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 160
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 161
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 162
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 163
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 164
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 165
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 166
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 167
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 168
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 169
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 170
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 171
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 172
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 173
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 174
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 175
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 176
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 177
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 178
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 179
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 180
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 181
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 182
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 183
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 184
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 185
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 186
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 187
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 188
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 189
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 190
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 191
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 192
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 193
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 194
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 195
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 196
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 197
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 198
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 199
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 200
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 201
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 202
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 203
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 204
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 205
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 206
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 207
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 208
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 209
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 210
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 211
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 212
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 213
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 214
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 215
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 216
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 217
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 218
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 219
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 220
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 221
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 222
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 223
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 224
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 225
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 226
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 227
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 228
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 229
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 230
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 231
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 232
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 233
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 234
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 235
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 236
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 237
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 238
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 239
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 240
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 241
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 242
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 243
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 244
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 245
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 246
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 247
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 248
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 249
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 250
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 251
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 252
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 253
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 254
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 255
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 256
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 257
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 258
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 259
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 260
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 261
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 262
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 263
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 264
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 265
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 266
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 267
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 268
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 269
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 270
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 271
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 272
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 273
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 274
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 275
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 276
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 277
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 278
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 279
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 280
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 281
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 282
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 283
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 284
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 285
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 286
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 287
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 288
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 289
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 290
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 291
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 292
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 293
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 294
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 295
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 296
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 297
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 298
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 299
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 300
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 301
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 302
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 303
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 304
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 305
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 306
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 307
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 308
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 309
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 310
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 311
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 312
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 313
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 314
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 315
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 316
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 317
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 318
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 319
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 320
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 321
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 322
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 323
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 324
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 325
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 326
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 327
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 328
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 329
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 330
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 331
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 332
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 333
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 334
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 335
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 336
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 337
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 338
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 339
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 340
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 341
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 342
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 343
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 344
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 345
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 346
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 347
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 348
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 349
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 350
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 351
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 352
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 353
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 354
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 355
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 356
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 357
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 358
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 359
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 360
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 361
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 362
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 363
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 364
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 365
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 366
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 367
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 368
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 369
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 370
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 371
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 372
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 373
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 374
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 375
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 376
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 377
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 378
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 379
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 380
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 381
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 382
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 383
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 384
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 385
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 386
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 387
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 388
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 389
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 390
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 391
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 392
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 393
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 394
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 395
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 396
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 397
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 398
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 399
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 400
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 401
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 402
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 403
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 404
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 405
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 406
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 407
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 408
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 409
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 410
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 411
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 412
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 413
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 414
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 415
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 416
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 417
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 418
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 419
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 420
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 421
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 422
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 423
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 424
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 425
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 426
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 427
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 428
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 429
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 430
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 431
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 432
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 433
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 434
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 435
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 436
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 437
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 438
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 439
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 440
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 441
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 442
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 443
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 444
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 445
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 446
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 447
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 448
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 449
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 450
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 451
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 452
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 453
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 454
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 455
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 456
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 457
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 458
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 459
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 460
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 461
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 462
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 463
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 464
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 465
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 466
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 467
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 468
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 469
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 470
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 471
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 472
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 473
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 474
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 475
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 476
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 477
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 478
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 479
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 480
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 481
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 482
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 483
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 484
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 485
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 486
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 487
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 488
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 489
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 490
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 491
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 492
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 493
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 494
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 495
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 496
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 497
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 498
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 499
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 500
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 501
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 502
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 503
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 504
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 505
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 506
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 507
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 508
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 509
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 510
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 511
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 512
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 513
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 514
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 515
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 516
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 517
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 518
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 519
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 520
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 521
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 522
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 523
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 524
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 525
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 526
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 527
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 528
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 529
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 530
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 531
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 532
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 533
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 534
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 535
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 536
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 537
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 538
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 539
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 540
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 541
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 542
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 543
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 544
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 545
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 546
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 547
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 548
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 549
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 550
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 551
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 552
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 553
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 554
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 555
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 556
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 557
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 558
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 559
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 560
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 561
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 562
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 563
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 21 31 19 17 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 798
+
+Iteration : 564
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 565
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 566
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 567
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 568
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 569
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 570
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 571
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 572
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 573
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 574
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 575
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 576
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 577
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 578
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 579
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 580
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 581
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 582
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 583
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 584
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 585
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 586
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 587
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 588
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 589
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 590
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 591
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 592
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 593
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 594
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 595
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 596
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 597
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 598
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 599
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 600
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 601
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 602
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 603
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 604
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 605
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 606
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 607
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 608
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 609
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 610
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 611
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 612
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 613
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 614
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 615
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 616
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 617
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 618
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 619
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 620
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 621
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 622
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 623
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 624
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 625
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 626
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 627
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 628
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 629
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 630
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 631
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 632
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 633
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 634
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 635
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 636
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 637
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 638
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 639
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 640
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 641
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 642
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 643
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 644
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 645
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 646
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 647
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 648
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 649
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 650
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 651
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 652
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 653
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 654
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 655
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 656
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 657
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 658
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 659
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 660
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 661
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 662
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 663
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 664
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 665
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 666
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 667
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 668
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 669
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 670
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 671
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 672
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 673
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 674
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 675
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 676
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 677
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 678
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 679
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 680
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 681
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 682
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 683
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 684
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 685
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 686
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 687
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 688
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 689
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 690
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 691
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 692
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 693
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 694
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 695
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 696
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 697
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 698
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 699
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 700
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 701
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 702
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 703
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 704
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 705
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 706
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 707
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 708
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 709
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 710
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 711
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 712
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 713
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 714
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 715
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 716
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 717
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 718
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 719
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 720
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 721
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 722
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 723
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 724
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 725
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 726
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 727
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 728
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 729
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 730
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 731
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 732
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 733
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 734
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 735
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 736
+Route #1: 20 5 25 10 15 22 9 18 8 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 795
+
+Iteration : 737
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 738
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 739
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 740
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 741
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 742
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 743
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 744
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 745
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 746
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 747
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 748
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 749
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 750
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 751
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 752
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 753
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 754
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 755
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 756
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 757
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 758
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 759
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 760
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 761
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 762
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 763
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 764
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 765
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 766
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 767
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 768
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 769
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 770
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 771
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 772
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 773
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 774
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 775
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 776
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 777
+Route #1: 7 13 17 19 31 21 26
+Route #2: 20 5 25 10 15 22 9 8 18 29
+Route #3: 24 14 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11
+cost 793
+
+Iteration : 778
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 779
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 780
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 781
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 782
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 783
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 784
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 785
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 786
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 787
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 788
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 789
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 790
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 791
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 792
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 793
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 794
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 795
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 796
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 797
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 798
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 799
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 800
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 801
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 802
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 803
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 804
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 805
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 806
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 807
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 808
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 809
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 810
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 811
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 812
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 813
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 814
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 815
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 816
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 817
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 818
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 819
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 820
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 821
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 822
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 823
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 824
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 825
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 826
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 827
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 828
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 829
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 830
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 831
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 832
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 833
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 834
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 835
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 836
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 837
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 838
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 839
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 840
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 841
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 842
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 843
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 844
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 845
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 846
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 847
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 848
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 849
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 850
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 851
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 852
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 853
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 854
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 855
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 856
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 857
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 858
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 859
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 860
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 861
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 862
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 863
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 864
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 865
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 866
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 867
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 868
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 869
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 870
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 871
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 872
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 873
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 874
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 875
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 876
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 877
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 878
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 879
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 880
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 881
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 882
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 883
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 884
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 885
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 886
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 887
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 888
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 889
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 890
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 891
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 892
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 893
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 894
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 895
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 896
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 897
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 898
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 899
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 900
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 901
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 902
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 903
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 904
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 905
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 906
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 907
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 908
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 909
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 910
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 911
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 912
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 913
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 914
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 915
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 916
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 917
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 918
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 919
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 920
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 921
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 922
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 923
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 924
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 925
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 926
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 927
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 928
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 929
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 930
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 931
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 932
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 933
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 934
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 935
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 936
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 937
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 938
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 939
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 940
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 941
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 942
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 943
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 944
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 945
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 946
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 947
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 948
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 949
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 950
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 951
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 952
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 953
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 954
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 955
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 956
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 957
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 958
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 959
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 960
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 961
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 962
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 963
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 964
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 965
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 966
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 967
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 968
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 969
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 970
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 971
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 972
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 973
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 974
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 975
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 976
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 977
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 978
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 979
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 980
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 981
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 982
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 983
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 984
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 985
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 986
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 987
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 988
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 989
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 990
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 991
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 992
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 993
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 994
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 995
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 996
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 997
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 998
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 999
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
+Iteration : 1000
+Route #1: 20 5 25 10 15 22 9 8 18 14
+Route #2: 7 13 17 19 31 21 26
+Route #3: 24 27
+Route #4: 12 1 16 30
+Route #5: 6 3 2 23 28 4 11 29
+cost 787
+
